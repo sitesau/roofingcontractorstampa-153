@@ -1,0 +1,22 @@
+{
+  "wheel_id": 413,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-153",
+  "project": "roofing-contractors-tampa-f927ea2f83f5b2cccd487d4462f86c89e24f7",
+  "parent_t1_ref": "roofingcontractorstampa-009",
+  "node_role": "buffer",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roofing contractors tampa",
+  "intended_url": "http://roofing-contractors-tampa-f927ea2f83f5b2cccd487d4462f86c89e24f7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "9c09da0630e6896f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/roofing-contractors-tampa-009/",
+      "anchor": "Roofing Contractors Tampa: Checks Before You Commit",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
